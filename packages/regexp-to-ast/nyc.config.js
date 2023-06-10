@@ -1,3 +1,4 @@
+// TODO: base on root config: `module.exports = require("../nyc.config")`
 module.exports = {
   reporter: ["lcov", "text"],
   exclude: [
